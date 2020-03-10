@@ -1,0 +1,7 @@
+C:\Users\darevalo\source\repos\Hello\Hello\bin\Release\Hello.exe.config
+C:\Users\darevalo\source\repos\Hello\Hello\bin\Release\Hello.exe
+C:\Users\darevalo\source\repos\Hello\Hello\bin\Release\Hello.pdb
+C:\Users\darevalo\source\repos\Hello\Hello\obj\Release\Hello.csprojAssemblyReference.cache
+C:\Users\darevalo\source\repos\Hello\Hello\obj\Release\Hello.csproj.CoreCompileInputs.cache
+C:\Users\darevalo\source\repos\Hello\Hello\obj\Release\Hello.exe
+C:\Users\darevalo\source\repos\Hello\Hello\obj\Release\Hello.pdb
